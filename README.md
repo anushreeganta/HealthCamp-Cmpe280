@@ -6,4 +6,4 @@ Steps to run the application:
 3. Run 'npm start'
 
 Attaching the screenshots.
-# HealthCamp-Cmpe280
+
